@@ -10,7 +10,6 @@
 ## Tools
 ![](https://skillicons.dev/icons?i=github)
 ![](https://skillicons.dev/icons?i=discord)
-![](https://skillicons.dev/icons?i=gmail)
 ![](https://skillicons.dev/icons?i=unity)
 ![](https://skillicons.dev/icons?i=unreal)
 ![](https://skillicons.dev/icons?i=visualstudio)
