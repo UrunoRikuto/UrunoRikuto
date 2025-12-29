@@ -1,5 +1,8 @@
 ## Hi there :wave:
 
+![](https://raw.githubusercontent.com/UrunoRikuto/UrunoRikuto/output/github-contribution-grid-snake.svg)
+
+
 ## Language
 ![](https://skillicons.dev/icons?i=c)
 ![](https://skillicons.dev/icons?i=cs)
