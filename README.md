@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there :wave:
 
-<!--
-**UrunoRikuto/UrunoRikuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language
+![](https://skillicons.dev/icons?i=c)
+![](https://skillicons.dev/icons?i=cs)
+![](https://skillicons.dev/icons?i=cpp)
+![](https://skillicons.dev/icons?i=py)
+![](https://skillicons.dev/icons?i=md)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+![](https://skillicons.dev/icons?i=github)
+![](https://skillicons.dev/icons?i=discord)
+![](https://skillicons.dev/icons?i=gmail)
+![](https://skillicons.dev/icons?i=unity)
+![](https://skillicons.dev/icons?i=unreal)
+![](https://skillicons.dev/icons?i=visualstudio)
